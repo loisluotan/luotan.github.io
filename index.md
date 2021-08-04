@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Luo Tan's website!
 
+Hi everyone, this is Luo. I am a second-year PhD student at the School of Education, the University of Bristol. My little brother helped me to build my personal website by using Github. Thanks, Zehong! Thanks, Github!
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For my research interests, please visit  [my information page at UoB](https://research-information.bris.ac.uk/en/persons/luo-tan). 
 
 ### Markdown
 
